@@ -1,6 +1,6 @@
 # Brazilian Names Generator – Figma Plugin
 
-[![Plugin Thumbnail](images/thumbnail.png)](https://www.figma.com/community/plugin/1602069334179415325/cpf-generator)
+[![Plugin Thumbnail](images/thumbnail.png)](https://www.figma.com/@pedropalmier/)
 
 A simple and minimalist plugin to generate real Brazilian names and surnames directly in Figma. [Use it now!](https://www.figma.com/@pedropalmier/) 
 
