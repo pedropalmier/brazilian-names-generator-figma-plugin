@@ -17,3 +17,4 @@ Create or fill text layers with the most common names sourced from [Brazil's lat
 - HTML / CSS / JavaScript / TypeScript
 - Cursor, Claude Code, Figma
 - [Figma Plugin DS](https://github.com/thomas-lowry/figma-plugin-ds) (Design system)
+Quando
